@@ -3,4 +3,4 @@ def square_array(numbers)
 end
 
 numbers = [1,2,3]
-puts square_array(array)
+puts square_array(numbers)
